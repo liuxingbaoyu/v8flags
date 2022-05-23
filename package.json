@@ -1,5 +1,5 @@
 {
-  "name": "v8flags",
+  "name": "v8flags-sha256",
   "version": "3.2.0",
   "description": "Get available v8 and Node.js flags.",
   "author": "Gulp Team <team@gulpjs.com> (http://gulpjs.com/)",
@@ -10,7 +10,7 @@
     "Selwyn <talk@selwyn.cc>",
     "Leo Zhang <leo@leozhang.me>"
   ],
-  "repository": "gulpjs/v8flags",
+  "repository": "liuxingbaoyu/v8flags",
   "license": "MIT",
   "engines": {
     "node": ">= 0.10"
